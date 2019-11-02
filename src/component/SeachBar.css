@@ -1,0 +1,10 @@
+.searchbar_conaitner {
+  text-align: center;
+}
+
+.inputStyle {
+  font-size: 1.5em;
+  padding: 3px;
+  display: inline-block;
+  width: 30%;
+}
