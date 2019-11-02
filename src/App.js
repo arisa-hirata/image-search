@@ -22,7 +22,7 @@ class App extends React.Component {
     return (
       <div>
         <SearchBar userSubmit={this.onSearchSubmit} />
-        <span>Found: {this.state.images.length}</span>
+        <span>Found👀: {this.state.images.length}</span>
         <ImageList foundImages={this.state.images} />
       </div>
     );
